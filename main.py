@@ -27,10 +27,11 @@ app = Flask(__name__)
 app.secret_key = 'bebasapasaja'
 
 connection = mysql.connector.connect(
-    host ='sql6.freemysqlhosting.net',
-    user ='sql6633117',
-    password ='uXkrnBC4EK',
-    database ='sql6633117'
+    host ='containers-us-west-20.railway.app',
+    user ='root',
+    port='6510',
+    password ='XsGBZxdRDMekK3C8851t',
+    database ='railway'
 )
 
 #mysql = connection
