@@ -23,6 +23,7 @@ google-auth
 google-auth-oauthlib
 google-pasta
 grpcio
+gunicorn
 h11
 h5py
 idna
