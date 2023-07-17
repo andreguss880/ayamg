@@ -16,7 +16,6 @@ exceptiongroup==1.1.1
 Flask==2.3.2
 Flask-JWT==0.3.2
 Flask-Login==0.6.2
-Flask-MySQLdb==1.0.1
 flatbuffers==23.5.26
 fonttools==4.40.0
 gast==0.4.0
@@ -39,7 +38,6 @@ MarkupSafe==2.1.2
 matplotlib==3.7.1
 ml-dtypes==0.1.0
 mysql-connector-python==8.0.33
-mysqlclient==2.1.1
 ndindex==1.7
 numpy==1.23.5
 oauthlib==3.2.2
