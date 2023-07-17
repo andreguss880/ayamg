@@ -72,6 +72,7 @@ tensorflow
 tensorflow-estimator
 tensorflow-intel
 tensorflow-io-gcs-filesystem
+tensorrt
 termcolor
 threadpoolctl
 trio
